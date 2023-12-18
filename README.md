@@ -1,4 +1,4 @@
-# Employee Management with JList (Serialization & Exceptions Practice)
+# Client and Account Management using Docker MySQL
 My third Java project on GitHub. It simulates a very simple bank application in which a client needs to log in to take a look at their accounts and know their combined balance.
 It applies the MVC design philosophy and structures the project in Model, View and Controller packages.
 All the clients and their respective accounts are stored in a MySQL Docker Container database. Modifications upon them are reflected in the database in real time.
