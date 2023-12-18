@@ -26,5 +26,5 @@ _Note:_ Program and screenshots are in Spanish.
 </p>
 
 ### Version History
-* _V1.0:_
+* _V1.0.0:_
   - Initial release. Options for logging in, logging out, viewing and modifying accounts, viewing and calculating/updating client info.
