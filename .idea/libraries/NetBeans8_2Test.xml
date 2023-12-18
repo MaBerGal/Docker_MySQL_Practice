@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="NetBeans8.2Test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NetBeans8.2Test.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
