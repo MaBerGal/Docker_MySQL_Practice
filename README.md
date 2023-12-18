@@ -12,8 +12,8 @@ _Note:_ Program and screenshots are in Spanish.
   <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/547bb65a-b056-4e11-82dc-0a2ccfb4c57d" /><br>
   <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/16a82f32-d397-478d-b0ee-3acbc8a58bea" /> <br>
   <h2>Different menu bar options and items within them that activate/deactivate dynamically and have icons next to them:</h2><br>
-  <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/7072362f-95a1-4280-8661-07743edd92db" /><br>
-  <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/180aa228-95fc-4c54-a0e4-ebd7939bea60" /><br>
+  <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/7072362f-95a1-4280-8661-07743edd92db" />
+  <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/180aa228-95fc-4c54-a0e4-ebd7939bea60" />
   <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/dc2dfc2c-9274-4b5c-a3ac-d19e616ef641" /><br>
   <h2>Custom modal JDialog that shows "About Me" pop-up window:</h2><br>
   <img src="https://github.com/MaBerGal/Docker_MySQL_Practice/assets/148444718/76adc394-cfb2-4e30-a455-c7e8d191b3ee" /><br>
